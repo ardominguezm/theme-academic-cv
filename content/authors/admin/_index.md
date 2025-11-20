@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Johnson
+title: Andy Domínguez
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -27,8 +27,8 @@ role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Decision Analysis and Statistics Group, UPM
+    url: https://www.dasg.upm.es/members.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
